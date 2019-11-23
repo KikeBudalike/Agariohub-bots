@@ -1,11 +1,11 @@
 # Agariohub-bots
 free ahub bots
 
-##To Do
+## To Do
 * Multi-user
 * AI bots
 
-##Instructions
+## Instructions
 1. Download tampermonkey
 2. Copy script from ahub.user.js
 3. Paste it in tampermonkey
