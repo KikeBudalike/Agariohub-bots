@@ -4,6 +4,7 @@ free ahub bots
 ## To Do
 * Multi-user
 * AI bots
+* Stable server
 
 ## Instructions
 1. Download tampermonkey
