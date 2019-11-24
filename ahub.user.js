@@ -5,6 +5,7 @@
 // @description  The best ahub bots
 // @author       200botsga
 // @match        *://stg.agariohub.io/client/*
+// @match        *://army.ovh/web/*
 // @run-at       document-start
 // @icon64       https://hdwallpaper20.com/wp-content/uploads/data/2018/3/5/wolf-PIC-HWB317337-1024x576.jpg
 // @icon64URL    https://hdwallpaper20.com/wp-content/uploads/data/2018/3/5/wolf-PIC-HWB317337-1024x576.jpg
